@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697089194 source:d:\codeblock\cpp\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iomanip>
+
+1697089194 source:d:\codeblock\hw3\cpp\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<iomanip>
+
