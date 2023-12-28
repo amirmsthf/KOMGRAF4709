@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703747851 source:d:\codeblock\hw6\rotasi2d\main.cpp
+	<iostream>
+	<array>
+	<cmath>
+
