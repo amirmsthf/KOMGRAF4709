@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700716351 source:d:\codeblock\skala\main.cpp
+	<iostream>
+	<vector>
+
+1703601260 source:d:\codeblock\hw5\skala\main.cpp
+	<iostream>
+	<vector>
+
